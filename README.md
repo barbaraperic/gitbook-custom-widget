@@ -6,6 +6,4 @@ description: Some content
 
 
 
-
-
-{% embed url="https://andmdancecompany.typeform.com/to/jejVkI78" fullWidth="true" %}
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSerI_uy5VBJPfwh66KzbLVLtemJdeBzgqbZCPLpQWZJCeppuQ/viewform?usp=sf_link" %}
